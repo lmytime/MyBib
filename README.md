@@ -9,7 +9,7 @@ For example, the citekey of the paper `Zur Elektrodynamik bewegter Körper` is `
 And I prefer to use `Einstein1905` or `Einstein:1905`. <br>
 This pushed me to build this webpage. <br>
 And please give me a <a href="https://github.com/lmytime/MyBib">star</a> if you think this webpage is helpful. <br><br>
-Online version for this app: https://preview.lmytime.com/mybib/
+Online version for this app: https://preview.lmytime.com/mybib
 
 ## Python environment
 This app requires python package: `flask`, `flask_cors`, `pybtex`.

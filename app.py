@@ -37,7 +37,7 @@ def newbib(bib):
 
 
     for okey, nkey in zip(oldkeys, keys):
-        bib = bib.replace(okey, nkey)
+        bib = bib.replace('{'+okey, '{'+nkey)
         # Verbose for debug
         # print(okey, "=>" , nkey)
     return bib
